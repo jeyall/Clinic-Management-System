@@ -1,1 +1,1 @@
-# cygnetmed
+# Clinic Management System
